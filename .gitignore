@@ -11,3 +11,9 @@ wheels/
 
 # env
 .env
+
+# db
+db/
+
+# gradio
+03ChatBot/.gradio
